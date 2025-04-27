@@ -2,7 +2,7 @@
 
 void lru(int p[], int n);
 void optimal(int p[], int n);
-
+void fifo(int p[], int n);
 int main() {
     int i, n, choice, p[20];
 
